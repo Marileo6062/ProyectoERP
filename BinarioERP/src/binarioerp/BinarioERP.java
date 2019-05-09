@@ -20,6 +20,9 @@ public class BinarioERP {
         
         Persona p = new Persona();
         System.out.print(p);
+        
+        Persona otra = new Persona();
+        System.out.println(otra);
     }
     
 }
